@@ -1,0 +1,23 @@
+.card-img-top {
+    width: 50%;
+    height: 100px; /* Ajusta este valor según lo que necesites */
+    object-fit: cover;
+}
+body {
+    color: #4984b2; /* Puedes cambiar este valor a cualquier color que te guste */
+    background-color: #f8f9fa; /* Opcional, para mejor contraste */
+}
+
+h1, h2, h5 {
+    color: #a86ac9; /* Títulos con un azul más fuerte */
+}
+
+p, li {
+    color: #b51919;
+}
+
+.list-group-item {
+    background-color: #e6f2ff; /* Fondo celeste claro */
+    border: 1px solid #b3d1ff;
+    color: #acca75;
+}
