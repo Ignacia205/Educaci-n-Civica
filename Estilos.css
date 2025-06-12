@@ -1,15 +1,15 @@
 .card-img-top {
     width: 50%;
-    height: 100px; /* Ajusta este valor según lo que necesites */
+    height: 100px;
     object-fit: cover;
 }
 body {
-    color: #4984b2; /* Puedes cambiar este valor a cualquier color que te guste */
-    background-color: #f8f9fa; /* Opcional, para mejor contraste */
+    color: #4984b2; 
+    background-color: #f8f9fa; 
 }
 
 h1, h2, h5 {
-    color: #a86ac9; /* Títulos con un azul más fuerte */
+    color: #a86ac9;
 }
 
 p, li {
@@ -17,7 +17,7 @@ p, li {
 }
 
 .list-group-item {
-    background-color: #e6f2ff; /* Fondo celeste claro */
+    background-color: #e6f2ff; 
     border: 1px solid #b3d1ff;
     color: #acca75;
 }
